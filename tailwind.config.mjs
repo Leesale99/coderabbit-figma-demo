@@ -413,6 +413,15 @@ const config = {
         "title-hero": "var(--sds-typography-title-hero-font-weight)",
         "title-page": "var(--sds-typography-title-page-font-weight)",
       },
+      letterSpacing: {
+        "sds-tightest": "-0.03em",
+        "sds-tighter": "-0.02em",
+      },
+      lineHeight: {
+        "sds-title": "1.2",
+        "sds-body": "1.4",
+        "sds-single": "1",
+      },
       borderRadius: {
         sm: "var(--sds-size-radius-100)",
         md: "var(--sds-size-radius-200)",
