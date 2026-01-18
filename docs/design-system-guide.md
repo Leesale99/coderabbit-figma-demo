@@ -113,6 +113,16 @@ Use this snippet in a Storybook or a local page to preview the palette:
 | Color/Green/800 | `--sds-color-green-800` | `text-green-800` |
 | Color/Green/900 | `--sds-color-green-900` | `text-green-900` |
 | Color/Green/1000 | `--sds-color-green-1000` | `text-green-1000` |
+| Color/Blue/100 | `--sds-color-blue-100` | `text-blue-100` |
+| Color/Blue/200 | `--sds-color-blue-200` | `text-blue-200` |
+| Color/Blue/300 | `--sds-color-blue-300` | `text-blue-300` |
+| Color/Blue/400 | `--sds-color-blue-400` | `text-blue-400` |
+| Color/Blue/500 | `--sds-color-blue-500` | `text-blue-500` |
+| Color/Blue/600 | `--sds-color-blue-600` | `text-blue-600` |
+| Color/Blue/700 | `--sds-color-blue-700` | `text-blue-700` |
+| Color/Blue/800 | `--sds-color-blue-800` | `text-blue-800` |
+| Color/Blue/900 | `--sds-color-blue-900` | `text-blue-900` |
+| Color/Blue/1000 | `--sds-color-blue-1000` | `text-blue-1000` |
 | Color/Pink/100 | `--sds-color-pink-100` | `text-pink-100` |
 | Color/Pink/200 | `--sds-color-pink-200` | `text-pink-200` |
 | Color/Pink/300 | `--sds-color-pink-300` | `text-pink-300` |
@@ -470,6 +480,16 @@ Use this snippet in a Storybook or a local page to preview the palette:
 --sds-color-green-800
 --sds-color-green-900
 --sds-color-green-1000
+--sds-color-blue-100
+--sds-color-blue-200
+--sds-color-blue-300
+--sds-color-blue-400
+--sds-color-blue-500
+--sds-color-blue-600
+--sds-color-blue-700
+--sds-color-blue-800
+--sds-color-blue-900
+--sds-color-blue-1000
 --sds-color-pink-100
 --sds-color-pink-200
 --sds-color-pink-300

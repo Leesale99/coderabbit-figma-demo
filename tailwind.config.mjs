@@ -58,6 +58,18 @@ const config = {
           900: "var(--sds-color-green-900)",
           1000: "var(--sds-color-green-1000)",
         },
+        blue: {
+          100: "var(--sds-color-blue-100)",
+          200: "var(--sds-color-blue-200)",
+          300: "var(--sds-color-blue-300)",
+          400: "var(--sds-color-blue-400)",
+          500: "var(--sds-color-blue-500)",
+          600: "var(--sds-color-blue-600)",
+          700: "var(--sds-color-blue-700)",
+          800: "var(--sds-color-blue-800)",
+          900: "var(--sds-color-blue-900)",
+          1000: "var(--sds-color-blue-1000)",
+        },
         pink: {
           100: "var(--sds-color-pink-100)",
           200: "var(--sds-color-pink-200)",
