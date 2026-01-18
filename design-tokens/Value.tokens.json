@@ -1913,7 +1913,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:4317:10391",
         "com.figma.codeSyntax": {
-          "WEB": "var(--sds-color-pink-100)"
+          "WEB": "var(--sds-color-blue-100)"
         },
         "com.figma.isOverride": true
       }
@@ -1933,7 +1933,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:4317:10392",
         "com.figma.codeSyntax": {
-          "WEB": "var(--sds-color-pink-200)"
+          "WEB": "var(--sds-color-blue-200)"
         },
         "com.figma.isOverride": true
       }
@@ -1953,7 +1953,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:4317:10393",
         "com.figma.codeSyntax": {
-          "WEB": "var(--sds-color-pink-300)"
+          "WEB": "var(--sds-color-blue-300)"
         },
         "com.figma.isOverride": true
       }
@@ -1973,7 +1973,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:4317:10394",
         "com.figma.codeSyntax": {
-          "WEB": "var(--sds-color-pink-400)"
+          "WEB": "var(--sds-color-blue-400)"
         },
         "com.figma.isOverride": true
       }
@@ -1993,7 +1993,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:4317:10395",
         "com.figma.codeSyntax": {
-          "WEB": "var(--sds-color-pink-500)"
+          "WEB": "var(--sds-color-blue-500)"
         },
         "com.figma.isOverride": true
       }
@@ -2013,7 +2013,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:4317:10396",
         "com.figma.codeSyntax": {
-          "WEB": "var(--sds-color-pink-600)"
+          "WEB": "var(--sds-color-blue-600)"
         },
         "com.figma.isOverride": true
       }
@@ -2033,7 +2033,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:4317:10397",
         "com.figma.codeSyntax": {
-          "WEB": "var(--sds-color-pink-700)"
+          "WEB": "var(--sds-color-blue-700)"
         },
         "com.figma.isOverride": true
       }
@@ -2053,7 +2053,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:4317:10398",
         "com.figma.codeSyntax": {
-          "WEB": "var(--sds-color-pink-800)"
+          "WEB": "var(--sds-color-blue-800)"
         },
         "com.figma.isOverride": true
       }
@@ -2073,7 +2073,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:4317:10399",
         "com.figma.codeSyntax": {
-          "WEB": "var(--sds-color-pink-900)"
+          "WEB": "var(--sds-color-blue-900)"
         },
         "com.figma.isOverride": true
       }
@@ -2093,7 +2093,7 @@
       "$extensions": {
         "com.figma.variableId": "VariableID:4317:10400",
         "com.figma.codeSyntax": {
-          "WEB": "var(--sds-color-pink-1000)"
+          "WEB": "var(--sds-color-blue-1000)"
         },
         "com.figma.isOverride": true
       }
