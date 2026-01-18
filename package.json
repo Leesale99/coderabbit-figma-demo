@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "check:tokens": "node ./scripts/check-tailwind-token-coverage.mjs",
     "start": "next start",
     "lint": "eslint"
   },

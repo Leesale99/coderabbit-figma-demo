@@ -1,0 +1,62 @@
+{
+  "Device": {
+    "$type": "string",
+    "$value": "mobile",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:234:21585",
+      "com.figma.scopes": [
+        "ALL_SCOPES"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-responsive-device)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "Device Width": {
+    "$type": "number",
+    "$value": 375,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11219",
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-responsive-device-width)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Root Font Size": {
+    "$type": "number",
+    "$value": 16,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11224",
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-responsive-root-font-size)"
+      },
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:25d1cc4c8161bc37045189e062db130ca540b1d1/-1:-1",
+        "targetVariableName": "Scale 03",
+        "targetVariableSetId": "VariableCollectionId:f73bbc80c12c326bdb08cbe82913ae3156ca2073/-1:-1",
+        "targetVariableSetName": "Typography Primitives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Scale": {
+    "$type": "number",
+    "$value": 1.25,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:231:21547",
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-responsive-scale)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Mobile"
+  }
+}

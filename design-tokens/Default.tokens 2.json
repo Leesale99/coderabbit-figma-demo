@@ -1,0 +1,421 @@
+{
+  "Family Sans": {
+    "$type": "string",
+    "$value": "Inter",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11199",
+      "com.figma.scopes": [
+        "FONT_FAMILY"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-family-sans)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "Family Serif": {
+    "$type": "string",
+    "$value": "Noto Serif",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11200",
+      "com.figma.scopes": [
+        "FONT_FAMILY"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-family-serif)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "Family Mono": {
+    "$type": "string",
+    "$value": "Roboto Mono",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11201",
+      "com.figma.scopes": [
+        "FONT_FAMILY"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-family-mono)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "Scale 01": {
+    "$type": "number",
+    "$value": 12,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11198",
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-scale-01)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Scale 02": {
+    "$type": "number",
+    "$value": 14,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11197",
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-scale-02)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Scale 03": {
+    "$type": "number",
+    "$value": 16,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11196",
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-scale-03)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Scale 04": {
+    "$type": "number",
+    "$value": 20,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11195",
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-scale-04)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Scale 05": {
+    "$type": "number",
+    "$value": 24,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11194",
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-scale-05)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Scale 06": {
+    "$type": "number",
+    "$value": 32,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11193",
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-scale-06)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Scale 07": {
+    "$type": "number",
+    "$value": 40,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11192",
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-scale-07)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Scale 08": {
+    "$type": "number",
+    "$value": 48,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11191",
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-scale-08)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Scale 09": {
+    "$type": "number",
+    "$value": 64,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11190",
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-scale-09)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Scale 10": {
+    "$type": "number",
+    "$value": 72,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11189",
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-scale-10)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Thin": {
+    "$type": "number",
+    "$value": 100,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11180",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-thin)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Thin Italic": {
+    "$type": "string",
+    "$value": "Thin Italic",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:66:10200",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-thin-italic)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Extra Light": {
+    "$type": "number",
+    "$value": 200,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11181",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-extra-light)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Extralight Italic": {
+    "$type": "string",
+    "$value": "Extra Light Italic",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:66:10201",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-extralight-italic)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Light": {
+    "$type": "number",
+    "$value": 300,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11182",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-light)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Light Italic": {
+    "$type": "string",
+    "$value": "Light Italic",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:56:8551",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-light-italic)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Regular": {
+    "$type": "number",
+    "$value": 400,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11183",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-regular)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Regular Italic": {
+    "$type": "string",
+    "$value": "Italic",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:56:8552",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-regular-italic)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Medium": {
+    "$type": "number",
+    "$value": 500,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11184",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-medium)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Medium Italic": {
+    "$type": "string",
+    "$value": "Medium Italic",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:66:10202",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-medium-italic)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Semibold": {
+    "$type": "number",
+    "$value": 600,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11185",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-semibold)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Semibold Italic": {
+    "$type": "string",
+    "$value": "Semi Bold Italic",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:66:10203",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-semibold-italic)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Bold": {
+    "$type": "number",
+    "$value": 700,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11186",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-bold)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Bold Italic": {
+    "$type": "string",
+    "$value": "Bold Italic",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:56:8553",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-bold-italic)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Extra Bold": {
+    "$type": "number",
+    "$value": 800,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11187",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-extra-bold)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Extra Bold Italic": {
+    "$type": "string",
+    "$value": "Extra Bold Italic",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:66:10204",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-extra-bold-italic)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Black": {
+    "$type": "number",
+    "$value": 900,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:9:11188",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-black)"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Weight Black Italic": {
+    "$type": "string",
+    "$value": "Black Italic",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:66:10208",
+      "com.figma.scopes": [
+        "FONT_STYLE"
+      ],
+      "com.figma.codeSyntax": {
+        "WEB": "var(--sds-typography-weight-black-italic)"
+      },
+      "com.figma.type": "string",
+      "com.figma.isOverride": true
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Default"
+  }
+}
