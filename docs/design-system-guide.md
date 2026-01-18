@@ -7,8 +7,14 @@ to Tailwind theme tokens and shows how to use them in the app.
 
 - Source of truth: `design-tokens.css` (generated from Figma).
 - Light theme uses `:root`. Dark theme uses `[data-theme="dark"]`.
-- Tailwind mappings live in `tailwind.config.js`.
+- Tailwind mappings live in `tailwind.config.mjs`.
 - CSS variable names remain unchanged (prefixed with `--sds-`).
+
+## shadcn/ui Integration
+
+- shadcn/ui theme variables are mapped to SDS tokens in `app/globals.css`.
+- Base components (e.g. `components/ui/button.tsx`) rely on shadcn variables,
+  so most styling changes should happen in the SDS token mapping layer.
 
 ## Tailwind Mapping Philosophy
 
