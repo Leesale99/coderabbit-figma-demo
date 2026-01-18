@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Verify that all SDS CSS variables in :root are referenced in tailwind.config.js.
+ * Verify that all SDS CSS variables in :root are referenced in tailwind.config.mjs.
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -10,8 +10,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const ROOT_DIR = path.join(__dirname, "..");
-const TOKENS_CSS = path.join(ROOT_DIR, "design-tokens.css");
-const TAILWIND_CONFIG = path.join(ROOT_DIR, "tailwind.config.js");
+const TOKENS_CSS = path.join(ROOT_DIR, "design-tokens", "design-tokens.css");
+const TAILWIND_CONFIG = path.join(ROOT_DIR, "tailwind.config.mjs");
 
 function readFile(filePath) {
   return fs.readFileSync(filePath, "utf8");
@@ -39,9 +39,9 @@ function main() {
   const extra = [...varsInConfig].filter((v) => !varsInCss.has(v)).sort();
 
   console.log(`CSS vars in :root: ${varsInCss.size}`);
-  console.log(`Vars referenced in tailwind.config.js: ${varsInConfig.size}`);
-  console.log(`Missing in tailwind.config.js: ${missing.length}`);
-  console.log(`Extra in tailwind.config.js: ${extra.length}`);
+  console.log(`Vars referenced in tailwind.config.mjs: ${varsInConfig.size}`);
+  console.log(`Missing in tailwind.config.mjs: ${missing.length}`);
+  console.log(`Extra in tailwind.config.mjs: ${extra.length}`);
 
   if (missing.length) {
     console.log("\nMissing vars (first 50):");

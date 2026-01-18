@@ -16,7 +16,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const TOKENS_DIR = path.join(__dirname, '..', 'design-tokens');
-const OUTPUT_FILE = path.join(__dirname, '..', 'design-tokens.css');
+const OUTPUT_FILE = path.join(__dirname, '..', 'design-tokens', 'design-tokens.css');
 
 // Base font size for rem calculations
 const BASE_FONT_SIZE = 16;
