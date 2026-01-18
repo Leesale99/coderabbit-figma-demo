@@ -1,6 +1,6 @@
-@config "../tailwind.config.mjs";
-@import "../design-tokens/design-tokens.css";
-@import "tailwindcss";
+`@import` "../design-tokens/design-tokens.css";
+`@import` "tailwindcss";
+`@config` "../tailwind.config.mjs";
 
 body {
   background: var(--sds-color-background-default-default);
